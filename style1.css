@@ -1,0 +1,29 @@
+*{
+  margin:2px;
+  padding:3px;
+  background-color: lightgoldenrodyellow;
+}
+
+.container{
+  font-size: large;
+  font-style: italic;
+}
+
+.container h2{
+  text-align: center;
+  color: coral;
+  font-size: 50px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  text-decoration: underline;
+}
+
+.paragraph{
+  font-size: 25px;
+  color: blue;
+}
+
+.paragraph p section{
+  row-gap: 50px
+}
+
